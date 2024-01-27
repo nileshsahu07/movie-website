@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black;
+    color: white; */
+}
+
+.zeeimg{
+    width: 40px;
+}
+
+.card-img-top{
+    width: 200px;
+    border-radius: 5px;
+    margin: 0 auto;
+    
+}
+
+.card{
+    width: 210px;
+    border-radius: 5px;
+}
+
+
+.card:hover {
+    transform: scale(1.1); 
+
+ }
+
+ .hh6{
+    display: inline;
+ }
+
+.contactimg{
+    width: 40px;
+}
